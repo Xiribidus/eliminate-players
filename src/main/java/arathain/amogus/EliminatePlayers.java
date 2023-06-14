@@ -11,6 +11,6 @@ public class EliminatePlayers implements ModInitializer {
 
 	@Override
 	public void onInitialize(ModContainer mod) {
-		bannedUuids.add(UUID.fromString("1ece513b-8d36-4f04-9be2-f341aa8c9ee2"));
+		bannedUuids.add(UUID.fromString("5c969ebe-d015-4863-9e2e-f790eff63de4"));
 	}
 }
